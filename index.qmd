@@ -1,1 +1,59 @@
-hi
+---
+title: "Unlocking Movie Magic: Predictive Factors to Movie Success"
+author: 
+  - Patricia Schenfeld
+  - Lindsay Strong
+  - Augustina Zuckerberg
+  - Shriya Chinthak
+format: 
+  html:
+    toc: True
+link-external-newwindow: true
+grid:
+    body-width: 1100px
+website:
+  back-to-top-navigation: true
+date: April 30, 2024
+theme: simplex
+
+---
+
+# Introduction
+  Lights, camera, action – the timeless allure of the silver screen continues to captivate audiences worldwide. Behind every cinematic masterpiece lies a delicate balance of artistry, storytelling, and commercial viability. Yet, amidst the glitz and glamor of Hollywood, the question lingers: What makes a movie truly successful?
+
+  In 2023, total earnings at the box office across the United States and Canada amounted to around 8.91 billion U.S. dollars (“Box office revenue in the U.S. and Canada 2023”). With cinema having such a large economic impact on the entertainment industry, the presence of several movie ranking systems have arisen. Movies are inherently subjective and vary in popularity. Companies like Netflix, IMDb and Rotten Tomatoes rate movies and measure popularity using their own metrics. For example, IMDb has two different metrics, IMDB Score and Popularity Score, while Rotten Tomatoes rates movies using a Tomatometer and an Audience Score. For example, the Rotten Tomatoes ratings for the movie Home Alone (1990) are drastically different between the audience rating (80%) and the critic score (66%). Why are these scores different and what metrics are consumers and critics using to rate these movies? Our goal in this project is to understand the nuances of movie popularity and success, and see what features are the leading contributors to higher ratings amongst IMDb and Rotten Tomatoes scores. Further analysis will allow us to answer our following objectives:
+
+* What kind of statistical model best predicts the audience score of a movie based on the movie’s features?
+* What features of a movie are most correlated with each other? How might that impact success?
+* What genres directly affect the success of a movie? Do the types of genres differ for the three metrics of success?
+* What features are best at predicting Audience Score? Critic Score? Revenue?
+* Are the features of best prediction between the three metrics of success stay the same or differ from one another?
+* Are Audience Score, Critics Score, and revenue correlated or influence each other?
+* Are Audience Score, Critics Score, and revenue reliable metrics for measuring the success of a movie?
+* Do simpler or more complex models better predict audience score, critics score, and revenue?
+* Does the time of year that a movie is released impact its success?
+* Are there trends in audience score and critics score over time?
+
+  Utilizing machine learning and statistical analyses, we will uncover answers to these
+questions, and provide a thorough investigation into the factors influencing movie success,
+offering practical insights for industry professionals and movie buffs alike.
+
+# Poster
+![](Final_Poster.png)
+
+## Live Poster Session
+
+We presented our findings and conclusions to our classmates and professors at a poster session on campus.
+
+<figure>
+  <img src="live.jpeg" style="width: 70%;">
+  <figcaption>Group members from left to right: Patricia Schenfeld, Lindsay Strong, Augustina Zuckerberg, Shriya Chinthak</figcaption>
+</figure>
+
+
+
+# Project Report
+
+<object data="project-report.pdf" type="application/pdf" width="1000" height="800">
+    <p>PDF cannot be displayed. <a href="report.pdf">Download</a> instead.</p>
+</object>
