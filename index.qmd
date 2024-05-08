@@ -1,5 +1,6 @@
 ---
 title: "Unlocking Movie Magic: Predictive Factors to Movie Success"
+subtitle: Statistical Learning for Analytics Final Project
 author: 
   - Patricia Schenfeld
   - Lindsay Strong
